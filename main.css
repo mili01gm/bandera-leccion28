@@ -1,0 +1,18 @@
+.inicial {
+  border: 2px solid #f3f3f3;
+  overflow: auto;
+}
+
+.inicial div {
+  width: 150px;
+  height: 150px;
+}
+.inicial div:nth-child(1) {
+  background: yellow;
+}
+.inicial div:nth-child(2) {
+  background: red;
+}
+.inicial div:nth-child(3) {
+  background: blue;
+}
