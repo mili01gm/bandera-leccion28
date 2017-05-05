@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 .inicial {
   border: 2px solid #f3f3f3;
   overflow: auto;
@@ -32,5 +33,23 @@
   background: blue;
 }
 .punto1 div:nth-child(3) {
+=======
+.punto2 {
+  border: 2px solid #f3f3f3;
+  overflow: auto;
+}
+.punto2 div {
+  width: 150px;
+  height: 150px;
+  float: right;
+}
+.punto2 div:nth-child(1) {
+  background: yellow;
+}
+.punto2 div:nth-child(2) {
+  background: blue;
+}
+.punto2 div:nth-child(3) {
+>>>>>>> 41dbae184e74ba9b75539bbd2dde045cccc388d8
   background: red;
 }
