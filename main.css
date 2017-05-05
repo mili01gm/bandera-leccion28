@@ -11,8 +11,8 @@
   background: yellow;
 }
 .inicial div:nth-child(2) {
-  background: red;
+  background: blue;
 }
 .inicial div:nth-child(3) {
-  background: blue;
+  background: red;
 }
