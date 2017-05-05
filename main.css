@@ -1,0 +1,19 @@
+.punto1 {
+  border: 2px solid #f3f3f3;
+  overflow-x: auto;
+}
+
+.punto1 div {
+  width: 150px;
+  height: 150px;
+  float: left;
+}
+.punto1 div:nth-child(1) {
+  background: yellow;
+}
+.punto1 div:nth-child(2) {
+  background: blue;
+}
+.punto1 div:nth-child(3) {
+  background: red;
+}
